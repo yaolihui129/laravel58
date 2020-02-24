@@ -1,10 +1,12 @@
 vendor/
 node_modules/
 npm-debug.log
+composer.lock
 
 # Laravel 4 specific
 bootstrap/compiled.php
 app/storage/
+
 
 # Laravel 5 & Lumen specific
 public/storage
